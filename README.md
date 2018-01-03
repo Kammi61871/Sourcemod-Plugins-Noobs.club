@@ -1,5 +1,5 @@
 # Sourcemod-Plugins-Noobs.club
-Modified Plugins to work on CS:S
+Modified Plugins to work on CS:S and translatet to en
 
 [ANY] SM warn https://forums.alliedmods.net/showthread.php?t=197853
 
