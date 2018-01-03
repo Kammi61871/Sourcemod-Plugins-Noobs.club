@@ -10,7 +10,7 @@
 #define REQUIRE_PLUGIN
 
 
-#define PLUGIN_VERSION "1.2.0"
+#define PLUGIN_VERSION "1.2.0 MOd by Noobs.club"
 
 // Handles
 new Handle:hDatabase = INVALID_HANDLE;
